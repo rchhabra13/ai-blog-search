@@ -29,7 +29,14 @@ https://github.com/user-attachments/assets/cee07380-d3dc-45f4-ad26-7d944ba9c32b
 - **User Interface (UI)**: [Streamlit](https://docs.streamlit.io/)
 
 ## Requirements
-1. **Install Dependencies**:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/rchhabra13/ai_blog_search.git
+   cd ai_blog_search
+   ```
+
+2. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
